@@ -21,3 +21,5 @@ while(n):
     except:
         print("please input your number from 1 to 10")
 
+if(n==0 and guess != number):
+    print("The guessing game over!")
