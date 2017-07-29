@@ -5,6 +5,6 @@ for num in range(2,100):
         if(num%i == 0):
             break
     else:
-        print(num,"is prime number")
+        print(num,"\t","is prime number")
 
 
